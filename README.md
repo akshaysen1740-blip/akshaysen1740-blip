@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=00C6FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+production+MERN+apps+since+2023;Architecting+RAG+pipelines+and+multi-agent+systems;LangChain+%C2%B7+LangGraph+%C2%B7+OpenAI+%C2%B7+Gemini;Shipped+an+AI+chatbot+in+production+for+Tata;50%2C000%2B+users+served+across+6%2B+apps" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-akshay--sen-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/akshay-sen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-akshay--sen-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/akshay-sen-aks03042002/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-akportfolio-00c6ff?style=for-the-badge&amp;logo=vercel&amp;logoColor=white)](https://www.akportfolio.duckdns.org/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-VKqLiVAgBn-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black)](https://leetcode.com/u/VKqLiVAgBn/)
 [![Gmail](https://img.shields.io/badge/Email-akshay.sen1740-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:akshay.sen1740@gmail.com)
