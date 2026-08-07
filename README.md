@@ -18,7 +18,7 @@
 ```javascript
 const akshaySen = {
   role: "Full Stack Developer (MERN) -> Agentic AI Engineer",
-  location: "Sagar, MP, India (working out of Jaipur)",
+  location: "Indore, MP",
   experience: "2.9+ years shipping production web apps",
   currently: "Associate Software Developer @ Durapid Technologies",
   focus: ["RAG pipelines", "Multi-agent workflows", "LLM orchestration"],
